@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋
 
 I am Renzo Fernando, a Software Engineering student at Icesi University, currently in the third semester. My main focus is to learn and develop in the world of software development. Here I tell you a little more about myself:
 
