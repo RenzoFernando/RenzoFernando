@@ -1,19 +1,18 @@
 ### Hi there 👋
 
-<!--
-**RenzoFernando/RenzoFernando** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Renzo Fernando, a Software Engineering student at Icesi University, currently in the third semester. My main focus is to learn and develop in the world of software development. Here I tell you a little more about myself:
 
-Here are some ideas to get you started:
+🚀 Skills: I am currently focused on learning and improving my skills in Java, and I also have knowledge of Python.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Training: Studying Software Engineering at Icesi University.
+
+💡 Interests: I am passionate about tranquility and clean style in software development. I seek to create efficient and elegant solutions.
+
+🌱 Continuous Learning: I am always looking for opportunities to learn and improve. Currently exploring new technologies and development methodologies.
+
+🔍 Featured Projects: [Pending...]
+
+📫 How to Contact Me: You can find me on [LinkedIn](www.linkedin.com/in/renzofernando) or Twitter.
 
 
 ### ⚙️ &nbsp;GitHub Analytics
