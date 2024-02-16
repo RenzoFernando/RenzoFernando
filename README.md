@@ -12,7 +12,7 @@ I am Renzo Fernando, a Software Engineering student at Icesi University, current
 
 🔍 Featured Projects: [Pending...]
 
-📫 How to Contact Me: You can find me on [LinkedIn](www.linkedin.com/in/renzofernando) or Twitter.
+📫 How to Contact Me: You can find me on [LinkedIn](https://www.linkedin.com/in/renzofernando/) or Twitter.
 
 
 ### ⚙️ &nbsp;GitHub Analytics
