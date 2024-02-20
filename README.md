@@ -1,8 +1,9 @@
-<div align="center">
-  <h1 align="center"></h1>
+<div>
 </div>
 
 ### Hi 👋
+
+---
 
 I am Renzo Fernando, a Software Engineering student at ICESI University, currently in the third semester. My main focus is to learn and develop in the world of software development. Here I tell you a little more about myself:
 
