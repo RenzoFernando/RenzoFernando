@@ -1,5 +1,7 @@
 ### Hi 👋
-![Visitor Count](https://profile-counter.glitch.me/{RenzoFernando}/count.svg)
+<a href="https://github.com/RenzoFernando/RenzoFernando">
+    <img alt="Si la etiqueta no se ve, dale F5 actualizar la página" title="Visitas Perfil GitHub" src="https://contador-visitas-github.vercel.app/"/></a>
+
 
 I am Renzo Fernando, a Software Engineering student at ICESI University, currently in the third semester. My main focus is to learn and develop in the world of software development. Here I tell you a little more about myself:
 
