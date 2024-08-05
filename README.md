@@ -1,10 +1,10 @@
 ### Hi 👋
 
-I am Renzo Fernando, a Software Engineering student at ICESI University, currently in the fourth semester. My main focus is to learn and develop in the world of software development. Here I tell you a little more about myself:
+I am **Renzo Fernando**, a Software Engineering student at *ICESI University*, currently in the fourth semester. My main focus is to learn and develop in the world of software development. Here I tell you a little more about myself:
 
 🚀 Skills: I am currently focused on learning and improving my skills in Java, and I also have knowledge of Python.
 
-🎓 Training: Studying Software Engineering at Icesi University.
+🎓 Training: Studying Software Engineering at ICESI University.
 
 💡 Interests: I am passionate about tranquility and clean style in software development. I seek to create efficient and elegant solutions.
 
