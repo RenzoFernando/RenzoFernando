@@ -17,6 +17,7 @@ I am **Renzo Fernando**, a Software Engineering student at *ICESI University*, c
 
 
 ### ⚙️ &nbsp;GitHub Analytics
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=RenzoFernando&label=Profile%20views&color=0e75b6&style=default" alt="RenzoFernando" /> </p>
 
 <p align="center">
   <a href="https://github.com/RenzoFernando">
