@@ -25,4 +25,7 @@ I am Renzo Fernando, a Software Engineering student at ICESI University, current
   <a>
     <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RenzoFernando&layout=compact&langs_count=8&theme=default"/>
   </a>
+    <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+      <img align="center" width=90% src="https://github-profile-trophy.vercel.app/?username=RenzoFernando&theme=default&row=1&column=7&margin-h=15&margin-w=5&no-bg=true&no-frame=true" alt="TROPHY" />
+    </a>
 </p>
