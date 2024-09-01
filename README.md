@@ -20,7 +20,7 @@ I am **Renzo Fernando**, a Software Engineering student at *ICESI University*, c
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=RenzoFernando&label=Profile%20views&color=0e75b6&style=default" alt="RenzoFernando" /> </p>
 
 <p align="center">
-  <a href="https://github.com/RenzoFernando">
+  <a href="https://github.com/RenzoFernando"> 
     <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=RenzoFernando&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
   </a>
   <a>
