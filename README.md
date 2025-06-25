@@ -15,9 +15,7 @@ My interests lie in software architecture, clean code principles, and building i
     <td width="100%">
       <strong><a href="https://github.com/RenzoFernando/LectorcitoPro">Lectorcito Pro</a> — Professional Code Reporting Tool</strong>
       <br><br>
-      A professional desktop tool developed in Python to analyze and consolidate source code projects into unified, well-formatted text reports. This utility is ideal for code audits, technical documentation creation, or preparing context for AI tool analysis. It features a modern GUI built with CustomTkinter, advanced filtering capabilities, and asynchronous processing to maintain a responsive user interface.
-      <br><br>
-      <em><strong>Technologies:</strong> Python, CustomTkinter, Git, PyInstaller.</em>
+      A professional desktop tool developed in Python to analyze and consolidate source code projects into unified, well-formatted text reports. This utility is ideal for code audits, technical documentation creation, or preparing context for AI tool analysis.
     </td>
   </tr>
 </table>
