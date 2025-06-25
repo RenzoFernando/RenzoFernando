@@ -21,7 +21,6 @@ My interests lie in software architecture, clean code principles, and building i
     </td>
   </tr>
 </table>
----
 
 ### Technologies & Tools
 
