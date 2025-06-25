@@ -1,26 +1,72 @@
-### Hi 👋
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-I am **Renzo Fernando**, a Software Engineering student at *ICESI University*, currently in the fourth semester. My main focus is to learn and develop in the world of software development. Here I tell you a little more about myself:
+I am **Renzo Fernando**, a sixth-semester Software Engineering student at *ICESI University*. I am passionate about software development, focusing on building practical, efficient, and well-designed solutions.
 
-🚀 Skills: I am currently focused on learning and improving my skills in Java, and I also have knowledge of Python.
+My interests lie in software architecture, clean code principles, and building intuitive user interfaces. I am dedicated to continuous learning and am always exploring new technologies and development methodologies to improve my skills as a developer.
 
-🎓 Training: Studying Software Engineering at ICESI University.
+- **Contact:** Feel free to connect with me via [LinkedIn](https://www.linkedin.com/in/renzofernando/) or reach out by [Email](mailto:renzofernando.md@gmail.com).
 
-💡 Interests: I am passionate about tranquility and clean style in software development. I seek to create efficient and elegant solutions.
+---
 
-🌱 Continuous Learning: I am always looking for opportunities to learn and improve. Currently exploring new technologies and development methodologies.
+### Featured Projects
 
-🔍 Featured Projects: [Pending...]
+<table>
+  <tr>
+    <td width="100%">
+      <strong><a href="https://github.com/RenzoFernando/LectorcitoPro">Lectorcito Pro</a> — Professional Code Reporting Tool</strong>
+      <br><br>
+      A professional desktop tool developed in Python to analyze and consolidate source code projects into unified, well-formatted text reports. This utility is ideal for code audits, technical documentation creation, or preparing context for AI tool analysis. It features a modern GUI built with CustomTkinter, advanced filtering capabilities, and asynchronous processing to maintain a responsive user interface.
+      <br><br>
+      <em><strong>Technologies:</strong> Python, CustomTkinter, Git, PyInstaller.</em>
+    </td>
+  </tr>
+</table>
+---
 
-📫 How to Contact Me: You can find me on [LinkedIn](https://www.linkedin.com/in/renzofernando/) or reach out to me via [Email](mailto:renzofernando.md@gmail.com).
+### Technologies & Tools
 
+<p align="left">
+  <strong>Programming Languages:</strong><br>
+  <a href="https://www.java.com" target="_blank"><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="java"/></a>
+  <a href="https://www.python.org" target="_blank"><img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/></a>
+  <a href="https://kotlinlang.org" target="_blank"><img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="kotlin"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript"/></a>
+  <a href="https://isocpp.org/" target="_blank"><img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="c++"/></a>
+  <a href="https://www.scala-lang.org" target="_blank"><img src="https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white" alt="scala"/></a>
+  <a href="https://www.r-project.org/" target="_blank"><img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" alt="R"/></a>
+</p>
+<p align="left">
+  <strong>Backend, Frontend & Desktop:</strong><br>
+  <a href="https://nodejs.org" target="_blank"><img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Nodejs"/></a>
+  <a href="https://www.djangoproject.com/" target="_blank"><img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="django"/></a>
+  <a href="https://openjfx.io/" target="_blank"><img src="https://img.shields.io/badge/JavaFX-52B5D5?style=for-the-badge&logo=openjfx&logoColor=white" alt="javafx"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="css3"/></a>
+</p>
+<p align="left">
+  <strong>Databases & DevOps:</strong><br>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/></a>
+  <a href="https://www.postgresql.org" target="_blank"><img src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql"/></a>
+  <a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" alt="docker"/></a>
+</p>
+<p align="left">
+  <strong>Other Tools & Platforms:</strong><br>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="git"/></a>
+  <a href="https://github.com" target="_blank"><img src="https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="github"/></a>
+  <a href="https://www.atlassian.com/software/jira" target="_blank"><img src="https://img.shields.io/badge/jira-%230052CC.svg?style=for-the-badge&logo=jira&logoColor=white" alt="jira"/></a>
+  <a href="https://powerapps.microsoft.com/" target="_blank"><img src="https://img.shields.io/badge/Power%20Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white" alt="powerapps"/></a>
+  <a href="https://colab.research.google.com/" target="_blank"><img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black" alt="colab"/></a>
+  <a href="https://www.microsoft.com/en-us/microsoft-365" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" alt="office"/></a>
+</p>
 
+---
 
-### ⚙️ &nbsp;GitHub Analytics
+### GitHub Analytics
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=RenzoFernando&label=Profile%20views&color=0e75b6&style=default" alt="RenzoFernando" /> </p>
 
 <p align="center">
-  <a href="https://github.com/RenzoFernando"> 
+  <a href="https://github.com/RenzoFernando">
     <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=RenzoFernando&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
   </a>
   <a>
@@ -30,5 +76,3 @@ I am **Renzo Fernando**, a Software Engineering student at *ICESI University*, c
       <img align="center" width=90% src="https://github-profile-trophy.vercel.app/?username=RenzoFernando&theme=default&row=1&column=7&margin-h=15&margin-w=5&no-bg=true&no-frame=true" alt="TROPHY" />
     </a>
 </p>
-
-
