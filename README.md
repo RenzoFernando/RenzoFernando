@@ -60,7 +60,9 @@ My interests lie in software architecture, clean code principles, and building i
 
 ### GitHub Analytics
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=RenzoFernando&label=Profile%20views&color=0e75b6&style=default" alt="RenzoFernando" /> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=RenzoFernando&label=Profile%20Views&color=0e75b6&style=flat-square" alt="RenzoFernando" />
+</p>
 
 <p align="center">
   <a href="https://github.com/RenzoFernando">
