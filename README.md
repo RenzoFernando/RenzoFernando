@@ -61,17 +61,20 @@ My interests lie in software architecture, clean code principles, and building i
 ### GitHub Analytics
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RenzoFernando&label=Profile%20Views&color=0e75b6&style=flat-square" alt="RenzoFernando" />
+  <img src="https://komarev.com/ghpvc/?username=RenzoFernando&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
 </p>
 
 <p align="center">
   <a href="https://github.com/RenzoFernando">
-    <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=RenzoFernando&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
+    <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=RenzoFernando&show_icons=true&theme=default&include_all_commits=true&count_private=true" alt="Renzo's GitHub Stats"/>
   </a>
-  <a>
-    <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RenzoFernando&layout=compact&langs_count=8&theme=default"/>
+  <a href="https://github.com/RenzoFernando">
+    <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RenzoFernando&layout=compact&langs_count=8&theme=default" alt="Renzo's Top Languages"/>
   </a>
-    <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=90% src="https://github-profile-trophy.vercel.app/?username=RenzoFernando&theme=default&row=1&column=7&margin-h=15&margin-w=5&no-bg=true&no-frame=true" alt="TROPHY" />
-    </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=RenzoFernando&theme=flat&row=1&column=7&margin-h=15&margin-w=5&no-bg=true&no-frame=true" alt="Trophies"/>
+  </a>
 </p>
