@@ -2,7 +2,7 @@
 
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzcwMWZjeHRjcHZzazByMnR6MG4zNTA3dHlyYWlpbXZuMWt1cHdxdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cmCEsJZHYBPels360q/giphy.gif" align="right" width="200px">
 
-I am **Renzo Fernando**, a sixth-semester Software Engineering student at *ICESI University*. I am passionate about software development, focusing on building practical, efficient, and well-designed solutions.
+I am **Renzo Fernando**, a seventh-semester Software Engineering student at *ICESI University*. I am passionate about software development, focusing on building practical, efficient, and well-designed solutions.
 
 My interests lie in software architecture, clean code principles, and building intuitive user interfaces. I am dedicated to continuous learning and am always exploring new technologies and development methodologies to improve my skills as a developer.
 
