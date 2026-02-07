@@ -68,15 +68,15 @@ My interests lie in software architecture, clean code principles, and building i
 
 <p align="center">
   <a href="https://github.com/RenzoFernando">
-    <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=RenzoFernando&no-bg=true&show_icons=true&theme=default&include_all_commits=true&count_private=true" alt="Renzo's GitHub Stats"/>
+    <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=RenzoFernando&hide_bg=true&hide_border=true&show_icons=true&theme=default&include_all_commits=true&count_private=true" alt="Renzo's GitHub Stats"/>
   </a>
   <a href="https://github.com/RenzoFernando">
-    <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RenzoFernando&no-bg=true&layout=compact&langs_count=8&theme=default" alt="Renzo's Top Languages"/>
+    <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RenzoFernando&hide_bg=true&hide_border=true&layout=compact&langs_count=8&theme=default" alt="Renzo's Top Languages"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.zeabur.app/?username=RenzoFernando&no-bg=true&margin-w=15" alt="RenzoFernando's Trophies" />
+    <img src="https://github-profile-trophy.zeabur.app/?username=RenzoFernando&no-bg=true&no-frame=true&margin-w=15" alt="RenzoFernando's Trophies" />
   </a>
 </p>
