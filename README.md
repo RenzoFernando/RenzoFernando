@@ -77,6 +77,6 @@ My interests lie in software architecture, clean code principles, and building i
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=RenzoFernando&theme=flat&row=1&column=7&margin-h=15&margin-w=5&no-bg=true&no-frame=true" alt="Trophies"/>
+    <img src="https://github-profile-trophy.zeabur.app/?username=RenzoFernando&no-bg=true&margin-w=15" alt="RenzoFernando's Trophies" />
   </a>
 </p>
